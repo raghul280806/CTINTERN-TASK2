@@ -21,4 +21,5 @@ After writing the code, the contract was compiled and deployed using Remix VM (L
 Post-deployment, various token functions were tested. The balanceOf function was used to check token balances, and the transfer function was used to send tokens between accounts. Remix provides multiple test accounts, making it easy to simulate real-world transactions. Successful transfers confirmed that the ERC-20 implementation worked correctly.
 This task provided deep insight into how cryptocurrencies like stablecoins and utility tokens operate. It also explained how token standards enable interoperability across blockchain platforms. Overall, Task 2 strengthened understanding of decentralized assets and practical blockchain token development
 
-output
+output:
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0ec55207-017a-48ba-a7c1-16ef1a7f3b1a" />
